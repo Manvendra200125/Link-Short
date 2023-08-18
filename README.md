@@ -1,5 +1,5 @@
 1. Access the Website:
-Go to "https://msn.ga/" in your web browser.
+Go to "https://msn.ga/" in your web browser .
 
 2. Shorten a URL:
 On the webpage, enter a long URL (web address) that you want to make shorter.
